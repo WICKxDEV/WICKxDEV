@@ -1,9 +1,10 @@
-<h1 align="center"><p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251804758252064838/standard_1.gif?ex=666fe987&is=666e9807&hm=ac2a90c747f7a568560fa98ae6af7c9dfa35e02cfb185218d0b6774a09a57a51&" alt="Avatar" width="100" height="100"/>
-</p></h1>
+<h1 align="center">Hi there, I'm WICKxDEV 👋</h1>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251570879087771658/standard_4.gif" alt="Discord Banner" />
+  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251804758252064838/standard_1.gif?ex=666fe987&is=666e9807&hm=ac2a90c747f7a568560fa98ae6af7c9dfa35e02cfb185218d0b6774a09a57a51&" alt="Avatar" width="100" height="100"/>
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251804758252064838/standard_1.gif?ex=666fe987&is=666e9807&hm=ac2a90c747f7a568560fa98ae6af7c9dfa35e02cfb185218d0b6774a09a57a51&" alt="Avatar" width="100" height="100"/>
 </p>
 
 <p align="center">
