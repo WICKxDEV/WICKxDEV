@@ -91,7 +91,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/81178b47a8598f0c81c4799f2cdd4057.gif?raw=true" alt="Visitors" />
+</p>
 ---
 
 ### 🌟 Projects & Contributions
@@ -107,9 +109,7 @@
 </p>
 <h3  align="center"><a href="https://discord.gg/gANZphNpwt">Join with us</a></h3>
 
-<p align="center">
-  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/81178b47a8598f0c81c4799f2cdd4057.gif?raw=true" alt="Visitors" />
-</p>
+
 
 <!---
 WICKxDEV/WICKxDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
