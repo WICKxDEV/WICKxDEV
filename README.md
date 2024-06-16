@@ -42,7 +42,9 @@
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/Vanilla@1x-1.0s-275px-54px%20(2).gif?raw=true" alt="status" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WICKxDEV&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -50,7 +52,9 @@
 
 ---
 
-### 📈 Top Languages
+<p align="center">
+  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/Vanilla@1x-1.0s-275px-54px%20(3).gif?raw=true" alt="language" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WICKxDEV&layout=compact&theme=radical" alt="Top Languages" />
@@ -58,7 +62,9 @@
 
 ---
 
-### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/Vanilla@1x-1.0s-275px-54px%20(4).gif?raw=true" alt="strike" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WICKxDEV&theme=radical" alt="GitHub Streak" />
@@ -66,7 +72,9 @@
 
 ---
 
-### 💬 Connect with Me
+<p align="center">
+  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/Vanilla@1x-1.0s-275px-54px%20(5).gif?raw=true" alt="connect with me" />
+</p>
 
 <p align="center">
   <a href="https://discord.gg/gANZphNpwt" style="text-decoration: none;">
@@ -85,7 +93,9 @@
 
 ---
 
-### 🌟 Projects & Contributions
+<p align="center">
+  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/Vanilla@1x-1.0s-279px-54px%20(2).gif?raw=true" alt="projects" />
+</p>
 
 - [Lucky-Auto-Service-Web](https://github.com/WICKxDEV/Lucky-Auto-Service-Web): Laravel 10 project for the service station university project. 
 - [SLIATE-ATI-Kurunegala-Web](https://github.com/WICKxDEV/SLIATE-ATI-Kurunegala-Web): Result management system university project.
