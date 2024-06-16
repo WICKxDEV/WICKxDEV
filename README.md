@@ -96,56 +96,17 @@
 
 ### 🌟 Projects & Contributions
 
-- [Project 1](https://github.com/WICKxDEV/project1): Brief description of Project 1.
-- [Project 2](https://github.com/WICKxDEV/project2): Brief description of Project 2.
-- [Project 3](https://github.com/WICKxDEV/project3): Brief description of Project 3.
+- [Lucky-Auto-Service-Web](https://github.com/WICKxDEV/Lucky-Auto-Service-Web): Laravel 10 project for the service station university project. 
+- [SLIATE-ATI-Kurunegala-Web](https://github.com/WICKxDEV/SLIATE-ATI-Kurunegala-Web): Result management system university project.
+- [CarRentalSystem-Java](https://github.com/WICKxDEV/CarRentalSystem): This Java program implements a Car Rental System.
 
 ---
 
 <p align="center">
   <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/standard%20(4).gif?raw=true" alt="Visitors" />
 </p>
-<h1  align="center"><a href="https://discord.gg/gANZphNpwt">Join with us</a></h1>
+<h3  align="center"><a href="https://discord.gg/gANZphNpwt">Join with us</a></h3>
 
-
-
-<p align="center">
-  <a href="https://cdn.discordapp.com/attachments/1026764838464139335/1251818706070278214/static.png?ex=666ff685&is=666ea505&hm=395d7b9c341ec479374f0aad120fc4c43ed7c9a5c701d9ff2d7cc0d51874ce84&" style="text-decoration: none; color: black;">
-    <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251818706070278214/static.png?ex=666ff685&is=666ea505&hm=395d7b9c341ec479374f0aad120fc4c43ed7c9a5c701d9ff2d7cc0d51874ce84&" alt="Image" />
-    <br />
-    Hover me!
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://emojicdn.elk.sh/👋?style=twitter" alt="Waving Hand Emoji" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WICKxDEV&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-name: Update README
-
-on:
-  schedule:
-    - cron: '0 0 * * *' # Daily update
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      
-      - name: Update README.md
-        run: |
-          echo "<p>Last updated: $(date)</p>" >> README.md
-
-
-<p align="center">
-  ⠋ Loading...
-</p>
 
 
 <!---
