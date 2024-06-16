@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/github/followers/WICKxDEV?style=for-the-badge" alt="GitHub Followers" />
   </a>
 </p>
+
 ---
 
 ### 👀 About Me
@@ -94,6 +95,7 @@
 <p align="center">
   <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/81178b47a8598f0c81c4799f2cdd4057.gif?raw=true" alt="Visitors" />
 </p>
+
 ---
 
 ### 🌟 Projects & Contributions
