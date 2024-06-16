@@ -86,7 +86,7 @@
 ### ⚡ Community
 
 <p align="center">
-  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/standard%20(4).gif?raw=true" alt="Visitors" />
+  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/standard%20(5).gif?raw=true" alt="Visitors" />
 </p>
 <h3  align="center"><a href="https://discord.gg/gANZphNpwt">Join with us</a></h3>
 
