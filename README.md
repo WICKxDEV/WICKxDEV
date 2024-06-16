@@ -24,7 +24,7 @@
 ### 👀 About Me
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251804758252064838/standard_1.gif?ex=666fe987&is=666e9807&hm=ac2a90c747f7a568560fa98ae6af7c9dfa35e02cfb185218d0b6774a09a57a51&" alt="Avatar" width="100" height="100"/>
+  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251558736820961391/standard_2.gif?ex=666fad27&is=666e5ba7&hm=4121d387b4dbe6731029394331abef86c87f3d352e11ea6a47800a44ea803d37&" alt="Avatar" width="150" height="150"/>
 </p>
 
 - 👋 Hi, I’m **@WICKxDEV**
@@ -83,8 +83,9 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=WICKxDEV.WICKxDEV" alt="Visitors" />
+  <img src="https://visits.dicebear.com/api/visitors/WICKxDEV" alt="Visitors" />
 </p>
+
 
 
 
