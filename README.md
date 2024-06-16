@@ -105,7 +105,7 @@
 <p align="center">
   <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/standard%20(4).gif?raw=true" alt="Visitors" />
 </p>
-
+<h1 align="center">Join with us [Discord](https://discord.gg/gANZphNpwt) </h1>
 
 
 
