@@ -94,7 +94,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/Vanilla@1x-1.0s-279px-54px%20(2).gif?raw=true" alt="projects" />
+  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/2024-06-16-About-Me.gif?raw=true" alt="projects" />
 </p>
 
 - [Lucky-Auto-Service-Web](https://github.com/WICKxDEV/Lucky-Auto-Service-Web): Laravel 10 project for the service station university project. 
