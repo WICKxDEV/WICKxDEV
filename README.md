@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://example.com" style="text-decoration: none; color: black;">
-    <img src="https://example.com/image.png" alt="Image" />
-    <br />
-    Hover me!
-  </a>
-</p>
-
 <h1 align="center">Hi there, I'm Isuru Wickramasinghe👋</h1>
 <p align="center">
   <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/standard%20(2).gif?raw=true" alt="Avatar2" />
@@ -117,8 +109,43 @@
 
 
 
+<p align="center">
+  <a href="https://cdn.discordapp.com/attachments/1026764838464139335/1251818706070278214/static.png?ex=666ff685&is=666ea505&hm=395d7b9c341ec479374f0aad120fc4c43ed7c9a5c701d9ff2d7cc0d51874ce84&" style="text-decoration: none; color: black;">
+    <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251818706070278214/static.png?ex=666ff685&is=666ea505&hm=395d7b9c341ec479374f0aad120fc4c43ed7c9a5c701d9ff2d7cc0d51874ce84&" alt="Image" />
+    <br />
+    Hover me!
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://emojicdn.elk.sh/👋?style=twitter" alt="Waving Hand Emoji" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WICKxDEV&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily update
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Update README.md
+        run: |
+          echo "<p>Last updated: $(date)</p>" >> README.md
 
 
+<p align="center">
+  ⠋ Loading...
+</p>
 
 
 <!---
