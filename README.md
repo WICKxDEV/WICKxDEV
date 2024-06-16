@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm WICKxDEV 👋</h1>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251570879087771658/standard_4.gif?ex=666fb876&is=666e66f6&hm=48a455098dcf609452e76b8e9b039ee18f7d0e68337c2e2ad76576255f85a95a&" alt="Avatar" />
+  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251570879087771658/standard_4.gif?ex=666fb876&is=666e66f6&hm=48a455098dcf609452e76b8e9b039ee18f7d0e68337c2e2ad76576255f85a95a&" alt="Avatar" width="200" height="100" />
 </p>
 
 <p align="center">
