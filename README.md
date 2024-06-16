@@ -23,9 +23,7 @@
 
 ### 👀 About Me
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251804758252064838/standard_1.gif?ex=666fe987&is=666e9807&hm=ac2a90c747f7a568560fa98ae6af7c9dfa35e02cfb185218d0b6774a09a57a51&" alt="Avatar" width="400" height="400"/>
-</p>
+
 
 - 👋 Hi, I’m **@WICKxDEV**
 - 💻 I’m passionate about **Web Development**, **Application Development**, and **Fivem Server Development**
@@ -83,7 +81,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=WICKxDEV.WICKxDEV" alt="Visitors" />
+  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251804758252064838/standard_1.gif?ex=666fe987&is=666e9807&hm=ac2a90c747f7a568560fa98ae6af7c9dfa35e02cfb185218d0b6774a09a57a51&" alt="Avatar" width="400" height="400"/>
 </p>
 
 
