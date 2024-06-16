@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/Vanilla@1x-1.0s-279px-54px%20(1).gif?raw=true" alt="Avatar2" />
+  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/Vanilla@1x-1.0s-275px-54px%20(1).gif?raw=true" alt="Avatar2" />
 </p>
 
 <p align="center">
