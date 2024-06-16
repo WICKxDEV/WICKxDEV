@@ -27,9 +27,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/Vanilla@1x-1.0s-275px-54px%20(1).gif?raw=true" alt="Avatar2" />
-</p>
+
+<img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/Vanilla@1x-1.0s-275px-54px%20(1).gif?raw=true" alt="Avatar2" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
