@@ -103,7 +103,7 @@
 ---
 
 <p align="center">
-  <img src="https://visits.dicebear.com/api/visitors/WICKxDEV" alt="Visitors" />
+  <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/standard%20(4).gif?raw=true" alt="Visitors" />
 </p>
 
 
