@@ -27,21 +27,6 @@
 
 ---
 
-### 👀 About Me
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251804758252064838/standard_1.gif" alt="Avatar" width="200" height="200"/>
-</p>
-
-- 👋 Hi, I’m **@WICKxDEV**
-- 💻 I’m passionate about **Web Development**, **Application Development**, and **Fivem Server Development**
-- 🌱 I’m currently learning **Java**, **C#**, **React**, **PHP**, **Laravel**, **Lua**
-- 💞️ I’m looking to collaborate with **Developers**
-- 📫 Reach me on [Discord](https://discord.gg/gANZphNpwt)
-- ⚡ Community: **DEV-HUB**
-
----
-
 ### 🚀 Technologies & Tools
 
 <p align="center">
