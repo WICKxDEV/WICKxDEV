@@ -24,14 +24,6 @@
     <img src="https://img.shields.io/github/followers/WICKxDEV?style=for-the-badge" alt="GitHub Followers" />
   </a>
 </p>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills</b>
-
-###### Technologies
-
-<a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" ></a>
-<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" ></a> 
-<a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" ></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"> </a>
 ---
 
 ### 👀 About Me
