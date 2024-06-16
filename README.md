@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://example.com" style="text-decoration: none; color: black;">
+    <img src="https://example.com/image.png" alt="Image" />
+    <br />
+    Hover me!
+  </a>
+</p>
+
 <h1 align="center">Hi there, I'm Isuru Wickramasinghe👋</h1>
 <p align="center">
   <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/standard%20(2).gif?raw=true" alt="Avatar2" />
