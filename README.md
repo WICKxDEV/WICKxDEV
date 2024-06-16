@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm WICKxDEV 👋</h1>
+<h1 align="center">Hi there, I'm Isuru Wickramasinghe👋</h1>
 <p align="center">
   <img src="https://github.com/WICKxDEV/WICKxDEV/blob/main/standard%20(2).gif?raw=true" alt="Avatar2" />
 </p>
