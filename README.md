@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm WICKxDEV 👋</h1>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251570879087771658/standard_4.gif?ex=666fb876&is=666e66f6&hm=48a455098dcf609452e76b8e9b039ee18f7d0e68337c2e2ad76576255f85a95a&" alt="Avatar" width="200" height="100" />
+  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251570879087771658/standard_4.gif?ex=666fb876&is=666e66f6&hm=48a455098dcf609452e76b8e9b039ee18f7d0e68337c2e2ad76576255f85a95a&" alt="Avatar" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ### 👀 About Me
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251558736820961391/standard_2.gif?ex=666fad27&is=666e5ba7&hm=4121d387b4dbe6731029394331abef86c87f3d352e11ea6a47800a44ea803d37&" alt="Avatar" width="400" height="200"/>
+  <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1251804758252064838/standard_1.gif?ex=666fe987&is=666e9807&hm=ac2a90c747f7a568560fa98ae6af7c9dfa35e02cfb185218d0b6774a09a57a51&" alt="Avatar" width="400" height="400"/>
 </p>
 
 - 👋 Hi, I’m **@WICKxDEV**
