@@ -20,8 +20,8 @@
   <a href="https://discord.gg/gANZphNpwt" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://github.com/WICKxDEV" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/followers/WICKxDEV?style=for-the-badge" alt="GitHub Followers" />
+  <a href="https://github.com/WICKxDEV">
+    <img src="https://komarev.com/ghpvc/?username=WICKxDEV&style=for-the-badge&color=blue" alt="Profile Views">
   </a>
 </p>
 
