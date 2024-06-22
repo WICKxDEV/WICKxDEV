@@ -23,9 +23,6 @@
   <a href="https://github.com/WICKxDEV">
     <img src="https://komarev.com/ghpvc/?username=WICKxDEV&style=for-the-badge&color=blue" alt="Profile Views">
   </a>
-  <a href="https://wakatime.com/@f9580748-97ee-4cbc-bb65-9a7568c69ccc">
-    <img src="https://wakatime.com/badge/user/f9580748-97ee-4cbc-bb65-9a7568c69ccc.svg" alt="Total time coded since Jun 22 2024" />
-  </a>
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/f9580748-97ee-4cbc-bb65-9a7568c69ccc.svg)](https://wakatime.com/@f9580748-97ee-4cbc-bb65-9a7568c69ccc)
