@@ -28,6 +28,8 @@
   </a>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/f9580748-97ee-4cbc-bb65-9a7568c69ccc.svg)](https://wakatime.com/@f9580748-97ee-4cbc-bb65-9a7568c69ccc)
+
 ---
 
 ### 🚀 Technologies & Tools
